@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Hi, I’m Michelle!
-I’m a mathematics and computer science graduate from Yale-NUS College.
-Currently, I teach coding and (ethical) use of AI tools.
+Currently, I teach coding and (ethical) use of AI tools in Singapore 🇸🇬.
+I studied mathematics at Yale-NUS College, along with some computer science and data science.
 ### 🌱 What I'm currently learning
 - 🤖 Exploring topics in AI safety and interpretability.
-- ⌨️ Dabbling in C++.
+- ⌨️ Trying out Haskell and functional programming.
 - 🇫🇷  Improving my French.
 ### 💻 Some tech I'm familiar with
 - Languages: Python. Some C++, C, R, JavaScript, SQL.
 - Python libraries: OpenCV, PyTorch, Tkinter, pygame.
   - (Have used: scikit-learn, numpy, pandas, matplotlib.)
 - Markup: $\LaTeX$, Markdown, a little HTML and CSS.
-- Tools: VS Code, Visual Studio, GitHub.
+- Tools: VS Code, Visual Studio, Git(Hub).
 ### 💬 Fun facts
 - 📝 I love editing and writing, whether it's code documentation or the perfect paragraph of prose.
 - 🏋🏼‍♀️ You'll find me in the gym more often than not after work.
