@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Hi, I’m Michelle!
-Currently, I teach coding and (ethical) use of AI tools in Singapore 🇸🇬.
-I studied mathematics at Yale-NUS College, along with some computer science and data science.
+Currently, I teach coding, robotics, and (ethical) use of AI tools in Singapore 🇸🇬.
+I am also working towards an MSc in robotics at [NUS](https://cde.nus.edu.sg/me/graduate/msc-robotics/).
+I received a BSc in mathematics from Yale-NUS College in 2024 (along with some computer science and data science).
 ### 🌱 What I'm currently learning
-- 🤖 Exploring topics in AI safety and interpretability.
-- ⌨️ Trying out Haskell and functional programming.
-- 🇫🇷  Improving my French.
+- 🤖 Exploring topics in AI safety, particularly embodied AI.
+- 🇮🇹 Improving my Italian.
 ### 💻 Some tech I'm familiar with
 - Languages: Python. Some C++, C, R, JavaScript, SQL.
 - Python libraries: OpenCV, PyTorch, Tkinter, pygame.
@@ -28,7 +28,7 @@ I studied mathematics at Yale-NUS College, along with some computer science and 
 ### 💬 Fun facts
 - 📝 I love editing and writing, whether it's code documentation or the perfect paragraph of prose.
 - 🏋🏼‍♀️ You'll find me in the gym more often than not after work.
-- 🎓 For my undergraduate thesis (which won that year's major prize), I learned [GAP](https://www.gap-system.org/) -- a fascinating window into computational algebra. 
+- 🎓 For my undergraduate thesis in algebraic graph theory (which won that year's major prize), I learned [GAP](https://www.gap-system.org/) -- a fascinating window into computational algebra. 
 - 🔸 I've committed to giving at least 10% of my lifetime income to effective charities (and [you can, too](https://www.givingwhatwecan.org/pledge)!).
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/michelleong/) or by email at [michelle.ong@aya.yale.edu](mailto:michelle.ong@aya.yale.edu).
